@@ -1,0 +1,21 @@
+.buttonForm{
+  font-family: Arial;
+  font-size: 14px;
+}
+
+
+.create-class{
+	 padding: 0px 850px;
+	cursor: pointer;
+}
+
+.transform-class{
+	padding: 15px 850px;
+}
+
+.canvas-class{
+	padding: 20px 20px;
+}
+
+
+canvas { background:#fff; border:1px solid #ccc; width:800px; height:600px }
